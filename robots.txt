@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ydemomew.github.io/sitemap
+Sitemap: https://ydemomew.github.io/app/sitemap
+Sitemap: https://ydemomew.github.io/assets/sitemap
+Sitemap: https://ydemomew.github.io/css/sitemap
+Sitemap: https://ydemomew.github.io/includes/sitemap
+Sitemap: https://ydemomew.github.io/item/sitemap
+Sitemap: https://ydemomew.github.io/src/sitemap
